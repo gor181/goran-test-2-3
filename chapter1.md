@@ -1,6 +1,7 @@
 ---
-title: Test
-description: Test
+  title: "Test"
+  description: "Test"
+  v2: true
 
 ---
 ## Sample exercise
@@ -11,29 +12,41 @@ lang: python
 xp: 100
 skills: 2
 key: 1b3c0f416f
+
+
+
 ```
 
+aa
 
 `@instructions`
 
+
 `@hint`
 
-`@pre_exercise_code`
-```{python}
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: d64642e5da
+
+
 
 ```
 
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+6df846676c11281fc55367bffa80cf97
